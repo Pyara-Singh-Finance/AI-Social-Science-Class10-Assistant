@@ -1,4 +1,2 @@
-## Live Project
-
 NotebookLM Project:
 https://notebooklm.google.com/notebook/c5ccbdff-198c-44b6-adf9-c1070f588383
