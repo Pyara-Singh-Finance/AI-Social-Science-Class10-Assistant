@@ -1,4 +1,4 @@
-# AI Social Science Assistant
+# AI Class - 10 Social Science Assistant
 
 ## Overview
 
